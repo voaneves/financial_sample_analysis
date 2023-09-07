@@ -36,10 +36,10 @@
         <li><a href="#technologies-used">Technologies Used</a></li>
       </ul>
     </li>
-    <li><a href="#project-structure">Features</a></li>
-    <li><a href="#methodology">Features</a></li>
-    <li><a href="#challenges-and-solutions">Features</a></li>
-    <li><a href="#results">Features</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#methodology">Methodology</a></li>
+    <li><a href="#challenges-and-solutions">Challenged and Solutions</a></li>
+    <li><a href="#results">Results</a></li>
     <li><a href="#getting-started">Getting started</a></li>
     <li><a href="#to-do">To Do</a></li>
     <li><a href="#reporting-bugs">Reporting Bugs</a></li>
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://voaneves.com/financial_sample_analysis">
-    <img alt="Website Image" src="img/financial_sample_analysis.jpg" />
+    <img alt="Report Image" src="img/financial_sample_analysis.jpg" />
   </a>
 </p>
 
